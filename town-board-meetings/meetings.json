@@ -1,0 +1,91 @@
+{
+  "meetings": [
+    {
+      "id": "regular-2026-06-08",
+      "title": "Regular Town Board Meeting — June 8, 2026",
+      "type": "regular",
+      "status": "upcoming",
+      "date": "2026-06-08",
+      "time": "6:05 PM",
+      "location": "Winchester Town Hall",
+      "documents": [
+        {
+          "label": "Agenda",
+          "filename": "Agenda_20260608_DRAFT.docx",
+          "url": "SHAREPOINT_LINK_HERE",
+          "updated": "2026-06-06",
+          "draft": true
+        }
+      ]
+    },
+    {
+      "id": "special-2026-06-02",
+      "title": "Special Town Board Meeting — June 2, 2026",
+      "type": "special",
+      "status": "complete",
+      "date": "2026-06-02",
+      "documents": [
+        {
+          "label": "Agenda",
+          "filename": "Agenda_STBM_20260602.pdf",
+          "url": "SHAREPOINT_LINK_HERE",
+          "date": "2026-06-02",
+          "draft": false
+        },
+        {
+          "label": "Minutes",
+          "filename": "Minutes_STBM_20260602.pdf",
+          "url": "SHAREPOINT_LINK_HERE",
+          "date": "2026-06-04",
+          "draft": false
+        }
+      ]
+    },
+    {
+      "id": "special-2026-05-21",
+      "title": "Special Town Board Meeting — May 21, 2026",
+      "type": "special",
+      "status": "complete",
+      "date": "2026-05-21",
+      "documents": [
+        {
+          "label": "Agenda",
+          "filename": "Agenda_STBM_20260521.pdf",
+          "url": "SHAREPOINT_LINK_HERE",
+          "date": "2026-05-21",
+          "draft": false
+        },
+        {
+          "label": "Minutes",
+          "filename": "Minutes_STBM_20260521.pdf",
+          "url": "SHAREPOINT_LINK_HERE",
+          "date": "2026-06-02",
+          "draft": false
+        }
+      ]
+    },
+    {
+      "id": "regular-2026-05",
+      "title": "Regular Town Board Meeting — May 2026",
+      "type": "regular",
+      "status": "complete",
+      "date": "2026-05-12",
+      "documents": [
+        {
+          "label": "Agenda",
+          "filename": "Agenda_20260512.pdf",
+          "url": "SHAREPOINT_LINK_HERE",
+          "date": "2026-05-12",
+          "draft": false
+        },
+        {
+          "label": "Minutes",
+          "filename": "Minutes_20260512.pdf",
+          "url": "SHAREPOINT_LINK_HERE",
+          "date": "2026-06-08",
+          "draft": false
+        }
+      ]
+    }
+  ]
+}
