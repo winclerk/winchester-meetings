@@ -1,4 +1,4 @@
-const MEETINGS_JSON = 'meetings.json';
+const MEETINGS_JSON = 'data.json';
 
 async function loadData() {
   const res = await fetch(MEETINGS_JSON + '?t=' + Date.now());
